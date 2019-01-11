@@ -1,0 +1,16 @@
+C:\Users\Filipe\Documents\Arquivos\Testes\stefanini - AnalistaDesenvolvedorPleno\XPTO\XPTO.UserInfo\XPTO.UserInfo.Desktop\bin\Debug\XPTO.UserInfo.Desktop.exe.config
+C:\Users\Filipe\Documents\Arquivos\Testes\stefanini - AnalistaDesenvolvedorPleno\XPTO\XPTO.UserInfo\XPTO.UserInfo.Desktop\bin\Debug\XPTO.UserInfo.Desktop.exe
+C:\Users\Filipe\Documents\Arquivos\Testes\stefanini - AnalistaDesenvolvedorPleno\XPTO\XPTO.UserInfo\XPTO.UserInfo.Desktop\bin\Debug\XPTO.UserInfo.Desktop.pdb
+C:\Users\Filipe\Documents\Arquivos\Testes\stefanini - AnalistaDesenvolvedorPleno\XPTO\XPTO.UserInfo\XPTO.UserInfo.Desktop\bin\Debug\XPTO.UserInfo.Core.dll
+C:\Users\Filipe\Documents\Arquivos\Testes\stefanini - AnalistaDesenvolvedorPleno\XPTO\XPTO.UserInfo\XPTO.UserInfo.Desktop\bin\Debug\XPTO.UserInfo.Core.pdb
+C:\Users\Filipe\Documents\Arquivos\Testes\stefanini - AnalistaDesenvolvedorPleno\XPTO\XPTO.UserInfo\XPTO.UserInfo.Desktop\bin\Debug\XPTO.UserInfo.Core.dll.config
+C:\Users\Filipe\Documents\Arquivos\Testes\stefanini - AnalistaDesenvolvedorPleno\XPTO\XPTO.UserInfo\XPTO.UserInfo.Desktop\obj\Debug\XPTO.UserInfo.Desktop.csprojAssemblyReference.cache
+C:\Users\Filipe\Documents\Arquivos\Testes\stefanini - AnalistaDesenvolvedorPleno\XPTO\XPTO.UserInfo\XPTO.UserInfo.Desktop\obj\Debug\XPTO.UserInfo.Desktop.Home.resources
+C:\Users\Filipe\Documents\Arquivos\Testes\stefanini - AnalistaDesenvolvedorPleno\XPTO\XPTO.UserInfo\XPTO.UserInfo.Desktop\obj\Debug\XPTO.UserInfo.Desktop.InserirInformacoes.resources
+C:\Users\Filipe\Documents\Arquivos\Testes\stefanini - AnalistaDesenvolvedorPleno\XPTO\XPTO.UserInfo\XPTO.UserInfo.Desktop\obj\Debug\XPTO.UserInfo.Desktop.Properties.Resources.resources
+C:\Users\Filipe\Documents\Arquivos\Testes\stefanini - AnalistaDesenvolvedorPleno\XPTO\XPTO.UserInfo\XPTO.UserInfo.Desktop\obj\Debug\XPTO.UserInfo.Desktop.VisualizarInformacoes.resources
+C:\Users\Filipe\Documents\Arquivos\Testes\stefanini - AnalistaDesenvolvedorPleno\XPTO\XPTO.UserInfo\XPTO.UserInfo.Desktop\obj\Debug\XPTO.UserInfo.Desktop.csproj.GenerateResource.cache
+C:\Users\Filipe\Documents\Arquivos\Testes\stefanini - AnalistaDesenvolvedorPleno\XPTO\XPTO.UserInfo\XPTO.UserInfo.Desktop\obj\Debug\XPTO.UserInfo.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Filipe\Documents\Arquivos\Testes\stefanini - AnalistaDesenvolvedorPleno\XPTO\XPTO.UserInfo\XPTO.UserInfo.Desktop\obj\Debug\XPTO.UserInfo.Desktop.csproj.CopyComplete
+C:\Users\Filipe\Documents\Arquivos\Testes\stefanini - AnalistaDesenvolvedorPleno\XPTO\XPTO.UserInfo\XPTO.UserInfo.Desktop\obj\Debug\XPTO.UserInfo.Desktop.exe
+C:\Users\Filipe\Documents\Arquivos\Testes\stefanini - AnalistaDesenvolvedorPleno\XPTO\XPTO.UserInfo\XPTO.UserInfo.Desktop\obj\Debug\XPTO.UserInfo.Desktop.pdb

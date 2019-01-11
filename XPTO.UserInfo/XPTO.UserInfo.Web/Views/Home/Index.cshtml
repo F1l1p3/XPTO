@@ -1,0 +1,67 @@
+﻿@model XPTO.UserInfo.Core.Model.UsuariosProdutos
+@using XPTO.UserInfo.Core.Model
+@using XPTO.UserInfo.Core
+
+
+<div class="accordion" id="accordionXPTO" style="margin-top:50px">
+
+    @foreach (USUARIO user in Model.usuarios)
+    {
+    <div class="card">
+        <div class="card-header" id="heading@(user.Id)">
+            <h5 class="mb-0">
+                <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse@(user.Id)" aria-expanded="true" aria-controls="collapse@(user.Id)">
+                    @user.nome.ToUpper()
+                </button>
+            </h5>
+        </div>
+
+        <div id="collapse@(user.Id)" class="collapse" aria-labelledby="heading@(user.Id)" data-parent="#accordionXPTO">
+            <div class="card-body">
+                
+                <div class="container">
+                    <div class="row">
+                        <div class="col">
+                            <label for="sobrenome@(user.Id)">Sobrenome</label>
+                            <input class="form-control" id="sobrenome@(user.Id)" value="@user.sobrenome" readonly />
+                        </div>
+                        <div class="col">
+                            <label for="datanascimento@(user.Id)">Data Nascimento</label>
+                            <input class="form-control" id="datanascimento@(user.Id)" value="@user.dt_nascimento" readonly />
+                        </div>
+                        <div class="col">
+                            <label for="sexo@(user.Id)">Sexo</label>
+                            <input class="form-control" id="sexo@(user.Id)" value="@user.sexo" readonly />
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col">
+                            <label for="email@(user.Id)">E-mail</label>
+                            <input class="form-control" id="email@(user.Id)" value="@user.email" readonly />
+                        </div>
+                    </div>
+                </div>
+                <hr />
+                <table class="table">
+                    <thead class="thead-dark">
+                        <tr>
+                            <th scope="col">PRODUTO</th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (PRODUTO item in Model.produtos.Where(p => p.id_usuario == user.Id).ToList())
+                        {
+                        <tr>
+                            <td>@item.nm_produto</td>
+                            <td><a href=@Url.Content("~/Home/DeleteProduto/"+item.id) class="btn btn-danger" style="float:right">Excluir</a></td>
+                        </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    }
+
+</div>

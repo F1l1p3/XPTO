@@ -1,0 +1,49 @@
+﻿@{
+    ViewBag.Title = "Inserir";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 style="margin-top:50px">Inserir Informações</h2>
+
+
+@if(ViewBag.resposta != "") { 
+<div class="alert alert-warning alert-dismissible fade show" role="alert">
+    <strong>Atenção!</strong> @ViewBag.resposta
+    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+        <span aria-hidden="true">&times;</span>
+    </button>
+</div>
+}
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <form method="post" action="InserirArquivo" enctype="multipart/form-data">
+                <div class="form-group">
+                    <label for="usuarioArquivo">Usuário</label>
+                    <div class="jumbotron" style="padding:5px">
+                        <input type="file" id="Arquivo" name="Arquivo" class="btn">
+                    </div>
+                </div>
+                <input type="hidden" id="tipoU" name="tipo" value="U"/>
+                <button type="submit" class="btn btn-primary">Enviar</button>
+            </form>
+        </div>
+        <div class="col">
+            <form method="post" action="InserirArquivo"  enctype="multipart/form-data">
+                <div class="form-group">
+                    <label for="produtoArquivo">Produto</label>
+                    <div class="jumbotron" style="padding:5px">
+                        <input type="file" id="produtoArquivo" name="Arquivo" class="btn">
+                    </div>
+                </div>
+                <input type="hidden" id="tipoP" name="tipo" value="P" />
+                <button type="submit" class="btn btn-primary" @if (ViewBag.PodeEnviarProduto == false) { @: disabled="disabled"
+                        }>
+                    Enviar
+                </button>
+            </form>
+        </div>
+    </div>
+</div>
+
+

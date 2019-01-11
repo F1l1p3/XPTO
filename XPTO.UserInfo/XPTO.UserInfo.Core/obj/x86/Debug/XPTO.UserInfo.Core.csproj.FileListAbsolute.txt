@@ -1,0 +1,10 @@
+C:\Users\Filipe\Documents\Arquivos\Testes\stefanini - AnalistaDesenvolvedorPleno\XPTO\XPTO.UserInfo\XPTO.UserInfo.Core\bin\x86\Debug\XPTO.UserInfo.Core.dll.config
+C:\Users\Filipe\Documents\Arquivos\Testes\stefanini - AnalistaDesenvolvedorPleno\XPTO\XPTO.UserInfo\XPTO.UserInfo.Core\bin\x86\Debug\XPTO.UserInfo.Core.dll
+C:\Users\Filipe\Documents\Arquivos\Testes\stefanini - AnalistaDesenvolvedorPleno\XPTO\XPTO.UserInfo\XPTO.UserInfo.Core\bin\x86\Debug\XPTO.UserInfo.Core.pdb
+C:\Users\Filipe\Documents\Arquivos\Testes\stefanini - AnalistaDesenvolvedorPleno\XPTO\XPTO.UserInfo\XPTO.UserInfo.Core\bin\x86\Debug\EntityFramework.dll
+C:\Users\Filipe\Documents\Arquivos\Testes\stefanini - AnalistaDesenvolvedorPleno\XPTO\XPTO.UserInfo\XPTO.UserInfo.Core\bin\x86\Debug\EntityFramework.xml
+C:\Users\Filipe\Documents\Arquivos\Testes\stefanini - AnalistaDesenvolvedorPleno\XPTO\XPTO.UserInfo\XPTO.UserInfo.Core\obj\x86\Debug\XPTO.UserInfo.Core.csprojAssemblyReference.cache
+C:\Users\Filipe\Documents\Arquivos\Testes\stefanini - AnalistaDesenvolvedorPleno\XPTO\XPTO.UserInfo\XPTO.UserInfo.Core\obj\x86\Debug\XPTO.UserInfo.Core.csproj.CoreCompileInputs.cache
+C:\Users\Filipe\Documents\Arquivos\Testes\stefanini - AnalistaDesenvolvedorPleno\XPTO\XPTO.UserInfo\XPTO.UserInfo.Core\obj\x86\Debug\XPTO.UserInfo.Core.csproj.CopyComplete
+C:\Users\Filipe\Documents\Arquivos\Testes\stefanini - AnalistaDesenvolvedorPleno\XPTO\XPTO.UserInfo\XPTO.UserInfo.Core\obj\x86\Debug\XPTO.UserInfo.Core.dll
+C:\Users\Filipe\Documents\Arquivos\Testes\stefanini - AnalistaDesenvolvedorPleno\XPTO\XPTO.UserInfo\XPTO.UserInfo.Core\obj\x86\Debug\XPTO.UserInfo.Core.pdb
